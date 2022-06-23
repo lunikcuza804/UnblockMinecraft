@@ -33,9 +33,9 @@
 ::978f952a14a936cc963da21a135fa983
 @echo off
 :main menu
-title UnblockMinecraft v.0.1.5
-echo: Welcome to program UnblockMinecraft v. 0.1.5!
-echo: (c) 2021 - Created by Lunikcuza.
+title UnblockMinecraft v.0.1.6
+echo: Welcome to program UnblockMinecraft v. 0.1.6!
+echo: (c) 2021-2022 - Created by Lunikcuza.
 echo.
 echo Select:
 echo.
@@ -103,7 +103,7 @@ pause
 exit
 :Copyright
 cls
-echo (c) 2021 - Created by Lunikcuza. This copyright is protected.
+echo (c) 2021-2022 - Created by Lunikcuza. This copyright is protected.
 echo.
 pause
 exit
