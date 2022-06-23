@@ -97,7 +97,7 @@ pause
 exit
 :Support
 cls
-echo , YouTube Channel: https://www.youtube.com/channel/UC3YYduPH8gj82WAx12Mk_tQ , Reddit: https://www.reddit.com/user/luntikcuza94 . Donate: https://www.donationalerts.com/r/luntikcuza . E-mail: pruhodundikoicuza092@gmail.com . You call him in 6-12 hours.
+echo , YouTube Channel: https://www.youtube.com/channel/UC3YYduPH8gj82WAx12Mk_tQ , Reddit: https://www.reddit.com/user/luntikcuza94 . Donate: https://donatepay.eu/don/12116 . E-mail: pruhodundikoicuza092@gmail.com . You call him in 6-12 hours.
 echo.
 pause
 exit
@@ -139,7 +139,7 @@ pause
 exit
 :Uninstall_Minecraft
 cls
-del /f D:\Minecraft
+del c:\users\%USERNAME%\AppData\Roaming\.minecraft
 pause
 exit
 :Game Shake
