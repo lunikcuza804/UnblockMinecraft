@@ -1,8 +1,13 @@
 # UnblockMinecraft
 # Program for unblocking or deleting Minecraft (no working in full version)
-# System requiments: 
+# System requiments:
+# Minimal:
 # OS: Windows 2000, XP, Vista, 7, 8.1, 10, 11 and (x64-x86 systems)
-# RAM: 8 MB
+# RAM: 16 MB
+# Disk: 600 KB disk space
+# Recommended:
+# OS: Windows 2000, XP, Vista, 7, 8.1, 10, 11 and (x64-x86 systems)
+# RAM: 32 MB
 # Disk: 600 KB disk space
 # Additional: Server OS not supported, but not tested. For Windows 7 or newer have PowerShell.
 # -------------------Program History-------------------------------------------
